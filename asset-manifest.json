@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/jonathanjwatson-gh-pages/static/js/main.75fc4ab8.chunk.js",
+    "main.js.map": "/jonathanjwatson-gh-pages/static/js/main.75fc4ab8.chunk.js.map",
+    "runtime-main.js": "/jonathanjwatson-gh-pages/static/js/runtime-main.e8b6b0e0.js",
+    "runtime-main.js.map": "/jonathanjwatson-gh-pages/static/js/runtime-main.e8b6b0e0.js.map",
+    "static/js/2.fd1c0fbd.chunk.js": "/jonathanjwatson-gh-pages/static/js/2.fd1c0fbd.chunk.js",
+    "static/js/2.fd1c0fbd.chunk.js.map": "/jonathanjwatson-gh-pages/static/js/2.fd1c0fbd.chunk.js.map",
+    "static/js/3.048362dc.chunk.js": "/jonathanjwatson-gh-pages/static/js/3.048362dc.chunk.js",
+    "static/js/3.048362dc.chunk.js.map": "/jonathanjwatson-gh-pages/static/js/3.048362dc.chunk.js.map",
+    "index.html": "/jonathanjwatson-gh-pages/index.html",
+    "static/js/2.fd1c0fbd.chunk.js.LICENSE.txt": "/jonathanjwatson-gh-pages/static/js/2.fd1c0fbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8b6b0e0.js",
+    "static/js/2.fd1c0fbd.chunk.js",
+    "static/js/main.75fc4ab8.chunk.js"
+  ]
+}
